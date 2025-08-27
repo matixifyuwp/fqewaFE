@@ -1,0 +1,11 @@
+{
+  name discord-verification-bot,
+  version 1.0.0,
+  description Discord bot for YouTube subscription verification,
+  scripts {
+    start python bot.py
+  },
+  engines {
+    node 18.x
+  }
+}
